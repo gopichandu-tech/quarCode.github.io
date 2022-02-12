@@ -102,12 +102,12 @@ p{
 @media (max-width: 760px) {
 
   img{
-    width: 250px;
+    width: 230px;
   }
 
   .fluid-container{
 
-    width: 60vw;
+    width: 65vw;
     height: 65vh;
 
 
