@@ -102,35 +102,12 @@ p{
 @media (max-width: 760px) {
 
   img{
-    width: 180px;
+    width: 250px;
   }
 
   .fluid-container{
 
-    width: 45vw;
-    height: 60vh;
-
-
-  }
-
-  .container{
-
-    width: 10vw;
-    margin: 5% 0 0 2%;
-
-  }
-
-}
-
-@media (max-width: 375px) {
-
-  img{
-    width: 160px;
-  }
-
-  .fluid-container{
-
-    width: 55vw;
+    width: 60vw;
     height: 60vh;
 
 
